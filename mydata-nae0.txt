@@ -1,0 +1,9 @@
+
+Name : Kwon Naeyoung
+Student number : 2021041036
+department : software
+Grade : 1
+Couse : Opensw Understanding and Practice
+
+cd /firstProject
+exit
